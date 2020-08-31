@@ -66,7 +66,7 @@ const main = async () => {
     console.log("Unrealised balance: " + amount * last + "$");
     console.log(" ");
 
-    setTimeout(main, 10000);
+    setTimeout(main, 60000);
 }
 
 main();
