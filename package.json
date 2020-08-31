@@ -5,5 +5,9 @@
   "main": "bot.js",
   "author": "Sondre Bye Humberset",
   "license": "GNU",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "coinbase-pro-node": "^2.9.0",
+    "moment": "^2.27.0"
+  }
 }
