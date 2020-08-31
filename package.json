@@ -1,0 +1,9 @@
+{
+  "name": "snotrabot",
+  "version": "0.0.1",
+  "description": "A trading bot",
+  "main": "bot.js",
+  "author": "Sondre Bye Humberset",
+  "license": "GNU",
+  "private": false
+}
